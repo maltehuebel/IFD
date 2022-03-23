@@ -1,2 +1,2 @@
 # IFD
-Moodboard: https://github.com/maltehuebel/IFD/blob/main/Moodboard.pdf
+Moodboard: https://maltehuebel.github.io/IFD/Moodboard.pdf
